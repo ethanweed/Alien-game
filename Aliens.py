@@ -1,6 +1,10 @@
 # original script by Kristian Tylen
-# adapted 2015 by Ethan Weed
-# updated 2024-08-09 by Ethan Weed
+# Tylén, K., Fusaroli, R., Østergaard, S. M., Smith, P., & Arnoldi, J. (2023). 
+# The Social Route to Abstraction: Interaction and Diversity Enhance Performance and Transfer in a 
+# Rule‐Based Categorization Task. Cognitive Science, 47(9), e13338.
+
+# script adapted 2015 by Ethan Weed
+# sript updated 2024-08-09 by Ethan Weed
 
 # import modules
 from psychopy import visual, core, event, gui # type: ignore
