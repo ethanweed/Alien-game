@@ -1,3 +1,5 @@
+# original script by Kristian Tylen
+# adapted 2015 by Ethan Weed
 # updated 2024-08-09 by Ethan Weed
 
 # import modules
