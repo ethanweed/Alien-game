@@ -1,0 +1,11 @@
+,ID,trial,image,choice,correct,point,reaction_time
+0,JDAliens3,1,11010txt.png,ask,1,10,5.49473042745376
+1,JDAliens3,2,10001iii.png,wave,1,20,45.1650316498999
+2,JDAliens3,3,11111xxx.png,steal,1,30,3.6417590378114255
+3,JDAliens3,4,00000iii.png,ask,0,28,10.569975517646526
+4,JDAliens3,5,01110txt.png,steal,0,26,24.13313641710556
+5,JDAliens3,6,00010tki.png,wave,0,24,1.3856770583370235
+6,JDAliens3,7,00111tkx.png,ask,1,34,1.9229360087338137
+7,JDAliens3,8,11100ktt.png,run,1,44,2.281825319645577
+8,JDAliens3,9,01101itt.png,run,0,42,1.506070037430618
+9,JDAliens3,10,00011tkk.png,ask,1,52,1.2806167382514104
