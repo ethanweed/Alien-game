@@ -105,10 +105,10 @@ CHIME = Sound(value = "sounds/chime.wav")
 TADA = Sound(value = "sounds/TaDa.wav")
 WAWA = Sound(value = "sounds/SadTrombone_short.wav")
 
-FEEDBACK_i = 'Oops! You should have just waved to this friendly alien.'
-FEEDBACK_t = 'Oops! You should have asked this friendly alien for a gem.'
-FEEDBACK_k = 'Oops! You should have run away from this bad alien.' 
-FEEDBACK_x = 'Oops! You should have stolen a gem from this bad alien.' 
+FEEDBACK_i = '!אופס! היית צריך פשוט לנופף לחייזר הידידותי הזה'
+FEEDBACK_t = '!אופס! היית צריך לבקש מהחייזר הידידותי הזה אבן חן'
+FEEDBACK_k = '!אופס! היית צריך לברוח מהחייזר הרע הזה' 
+FEEDBACK_x = '!אופס! היית צריך לגנוב אבן חן מהחייזר הרע הזה' 
 
 feedback_i = visual.TextStim(win, text = FEEDBACK_i, pos = [0, -0.4], color = 'black', height = 0.06)
 feedback_t = visual.TextStim(win, text = FEEDBACK_t, pos = [0, -0.4], color = 'black', height = 0.06)
@@ -116,11 +116,11 @@ feedback_k = visual.TextStim(win, text = FEEDBACK_k, pos = [0, -0.4], color = 'b
 feedback_x = visual.TextStim(win, text = FEEDBACK_x, pos = [0, -0.4], color = 'black', height = 0.06)
 
 INS1 = visual.TextStim(win, text = '''
-For every alien you see, talk together and decide whether to WAVE and move on, ASK for a gem, RUN away, or STEAL a gem. 
+לכל חייזר שאתם רואים, דברו יחד והחליטו האם לנופף ולהמשיך הלאה, לבקש אבן חן, לברוח, או לגנוב אבן חן 
 
-Wait for the chime before giving your answer.
+חכו לצלצול לפני שאתם נותנים את תשובתכם
 
-You will earn 10 points for every correct choice, and lose 2 points for every mistake.
+תרוויחו 10 נקודות על כל בחירה נכונה, ותפסידו 2 נקודות על כל טעות
 ''', color = 'black', height = 0.06)
 
 INS2 = visual.TextStim(win, text = '''
